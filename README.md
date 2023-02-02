@@ -74,5 +74,6 @@ tabData -
 
 
 ## Change Log
+0.0.3 - Added the `openState` parameter to accordian to start all open ("open"), first one open ("first") or all closed (anything including blank)
 0.0.2 - Added documentation and id / class functionality for existing components; Added BaseUIME component
 0.0.1 - Initial Commit
